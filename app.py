@@ -7,7 +7,7 @@ st.title("⛏️ Apex Mining Multi-Jurisdiction T&A & Payroll Engine")
 st.caption("Proof-of-Concept Architecture: BC HQ, ON Processing Plant & QC Underground Mine")
 
 st.markdown("""
-이 엔진은 **관할 주(BC, ON, QC)**별 상이한 근로기준법, 12시간 교대 스케줄, 단체협약(CBA) 4시간 호출 보장 및 이원화 세법(CRA vs. Revenu Québec)을 실시간으로 판정합니다.
+This engine dynamically evaluates distinct provincial employment standards across jurisdictions (BC, ON, QC), 12-hour continuous shift rotations, CBA 4-hour call-out guarantees, and dual-tax authority frameworks (CRA vs. Revenu Québec) in real time.
 """)
 
 st.write("---")
